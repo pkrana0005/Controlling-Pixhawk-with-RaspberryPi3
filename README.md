@@ -8,6 +8,10 @@ References:-
 
 https://ardupilot.org/dev/docs/raspberry-pi-via-mavlink.html
 
+https://www.youtube.com/watch?v=DGAB34fJQFc
+
+https://www.youtube.com/watch?v=3ktSk3jGm4I
+
 https://mavlink.io/en/
 
 http://ardupilot.github.io/MAVProxy/html/index.html

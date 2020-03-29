@@ -6,11 +6,15 @@ In this project I sucessfully controlled a Pixhawk PX4 flight controller enabled
 
 References:-
 
+https://ardupilot.org/dev/docs/raspberry-pi-via-mavlink.html
+
 https://mavlink.io/en/
 
 http://ardupilot.github.io/MAVProxy/html/index.html
 
 https://github.com/dronekit/dronekit-python
+
+http://dev.px4.io/v1.9.0/en/
 
 https://camera-manager.dronecode.org/en/
 

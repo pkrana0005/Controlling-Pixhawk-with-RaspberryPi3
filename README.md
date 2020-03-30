@@ -2,6 +2,7 @@
 DroneKit
 
 In this project I sucessfully controlled a Pixhawk PX4 flight controller enabled quadcopter using RaspberryPi 3B+.
+Please read my wiki for detailed documentation of my work. 
 
 ![](Images/01.jpg)
 
